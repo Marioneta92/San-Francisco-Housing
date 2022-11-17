@@ -68,7 +68,8 @@ For this part of the assignment, use numerical and visual aggregation to calcula
 
     Note that your resulting plot should appear similar to the following image:
 
-6-4-avg-sale-px-sq-foot-gross-rent.png
+![image](https://user-images.githubusercontent.com/114365472/202555531-a78fb5d3-4ab1-4aaa-bed1-8aaba99a8346.png)
+
 
     Use both the prices_square_foot_by_year DataFrame and interactive plots to answer the following questions:
 
@@ -90,7 +91,8 @@ For this part of the assignment, use interactive visualizations and widgets to e
 
     Note that your resulting plot should appear similar to the following image:
 
-6-4-pricing-info-by-neighborhood.png
+![image](https://user-images.githubusercontent.com/114365472/202555709-c7aedb46-affa-4e8e-ac54-366e0b7cfa00.png)
+
 
     Use the interactive visualization to answer the following question:
         For the Anza Vista neighborhood, is the average sale price per square foot for 2016 more or less than the price that’s listed for 2012?
@@ -119,7 +121,8 @@ For this part of the assignment, explore the geospatial relationships in the dat
 
 Note that your resulting plot should appear similar to the following image:
 
-6-4-geoviews-plot.png
+![image](https://user-images.githubusercontent.com/114365472/202555867-c4b70060-80c6-47eb-b3d0-80058b4bec02.png)
+
 
     Use the interactive map to answer the following question:
         Which neighborhood has the highest gross rent, and which has the highest sale price per square foot?
